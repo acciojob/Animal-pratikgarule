@@ -1,7 +1,11 @@
 /*  your css code here. If applicable */
 img{
 	width:32%;
+	length:9;
 	border-radius: 20px;
+}
+.photo-heading{
+	text-align: center;
 }
 .animal-photos{
 	background-color: #444;
